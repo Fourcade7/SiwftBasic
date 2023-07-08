@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='5.0' target-platform='ios' buildActiveScheme='true' executeOnSourceChanges='false' importAppTypes='true'>
-    <timeline fileName='timeline.xctimeline'/>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='1_DataType'/>
+        <page name='2_Math_Operators'/>
+        <page name='3_Control_Flow'/>
+        <page name='4_Functions'/>
+        <page name='5_Class_and_Struct'/>
+        <page name='6_Class_inheritance'/>
+        <page name='7_Array_Collections'/>
+        <page name='8_Protocol'/>
+    </pages>
 </playground>

@@ -13,5 +13,14 @@
         <page name='10_String_append'/>
         <page name='11_String_insert'/>
         <page name='12_String_elementsEqual'/>
+        <page name='13_String_remove'/>
+        <page name='14_String_removeAll'/>
+        <page name='15_String_replaceOccurences'/>
+        <page name='16_String_trimmingCharacters'/>
+        <page name='17_String_dropLast'/>
+        <page name='18_String_dropFirst'/>
+        <page name='19_String_lowercased'/>
+        <page name='20_String_uppercased'/>
+        <page name='21_String_hasPrefix'/>
     </pages>
 </playground>

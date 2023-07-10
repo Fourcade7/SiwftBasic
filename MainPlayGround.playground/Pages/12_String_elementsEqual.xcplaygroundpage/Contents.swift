@@ -22,3 +22,9 @@ if (str1.elementsEqual(str2)) {
 else {
   print("str1 and str2 are not equal")
 }
+
+if(str1 == str2){
+    print("true")
+}else{
+    print("false")
+}

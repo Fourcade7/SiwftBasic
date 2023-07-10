@@ -22,5 +22,10 @@
         <page name='19_String_lowercased'/>
         <page name='20_String_uppercased'/>
         <page name='21_String_hasPrefix'/>
+        <page name='22_String_hasSuffix'/>
+        <page name='23_String_contains '/>
+        <page name='24_String_joined'/>
+        <page name='25_String_split'/>
+        <page name='26_String_reversed'/>
     </pages>
 </playground>

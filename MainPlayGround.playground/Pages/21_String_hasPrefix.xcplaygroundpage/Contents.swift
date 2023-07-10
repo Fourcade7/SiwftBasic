@@ -19,6 +19,8 @@ var str = "Swift Programming"
 print(str.hasPrefix("Swift")) // true
 print(str.hasPrefix("S")) // true
 print(str.hasPrefix("Swift Program")) // true
+print("my test")
+print(str.hasPrefix("Program"))
 
 print(str.hasPrefix("swift")) // false
 print(str.hasPrefix("wif")) // false

@@ -9,5 +9,6 @@
         <page name='6_Class_inheritance'/>
         <page name='7_Array_Collections'/>
         <page name='8_Protocol'/>
+        <page name='9_Generics'/>
     </pages>
 </playground>

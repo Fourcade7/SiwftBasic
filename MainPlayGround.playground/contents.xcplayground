@@ -11,5 +11,7 @@
         <page name='8_Protocol'/>
         <page name='9_Generics'/>
         <page name='10_String_append'/>
+        <page name='11_String_insert'/>
+        <page name='12_String_elementsEqual'/>
     </pages>
 </playground>

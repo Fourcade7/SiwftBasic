@@ -27,5 +27,25 @@
         <page name='24_String_joined'/>
         <page name='25_String_split'/>
         <page name='26_String_reversed'/>
+        <page name='27_Array_append'/>
+        <page name='28_Array_contains'/>
+        <page name='29_Array_dropFirst'/>
+        <page name='30_Array_dropLast'/>
+        <page name='31_Array_insert'/>
+        <page name='32_Array_joined'/>
+        <page name='33_Array_min'/>
+        <page name='34_Array_remove'/>
+        <page name='35_Array_removeAll'/>
+        <page name='36_Array_removeSubrange'/>
+        <page name='37_Array_reverse'/>
+        <page name='38_Array_sort'/>
+        <page name='39_Array_swapAt'/>
+        <page name='40_Array_allSatisfy'/>
+        <page name='41_Array_filter'/>
+        <page name='42_Array_map'/>
+        <page name='43_Array_prefix'/>
+        <page name='44_Array_removeLast'/>
+        <page name='45_Array_shuffle'/>
+        <page name='46_Array_suffix'/>
     </pages>
 </playground>
